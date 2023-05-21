@@ -1,0 +1,58 @@
+Fighting002_x264.mp4 3 33
+Fighting003_x264.mp4 61 93
+Fighting004_x264.mp4 0 535
+Fighting005_x264.mp4 35 45
+Fighting006_x264.mp4 10 25
+Fighting007_x264.mp4 0 91 
+Fighting008_x264.mp4 60 120
+Fighting009_x264.mp4 52 58
+Fighting010_x264.mp4 97 141
+Fighting011_x264.mp4 66 97
+Fighting012_x264.mp4 2 21
+Fighting013_x264.mp4 3 46
+Fighting014_x264.mp4 65 75
+Fighting015_x264.mp4 76 110
+Fighting016_x264.mp4 3 87
+Fighting017_x264.mp4 17 60
+Fighting018_x264.mp4 5 13
+Fighting019_x264.mp4 22 71
+Fighting020_x264.mp4 2 73 
+Fighting021_x264.mp4 45 90
+Fighting022_x264.mp4 20 112
+Fighting023_x264.mp4 11 29
+Fighting024_x264.mp4 3 137
+Fighting025_x264.mp4 19 158
+Fighting026_x264.mp4 15 110
+Fighting027_x264.mp4 71 108
+Fighting028_x264.mp4 15 59
+Fighting029_x264.mp4 30 145 
+Fighting030_x264.mp4 38 58
+Fighting031_x264.mp4 66 110
+Fighting032_x264.mp4 17 44
+Fighting033_x264.mp4 21 28
+Fighting034_x264.mp4 93 205
+Fighting035_x264.mp4 4 23
+Fighting036_x264.mp4 0 124
+Fighting037_x264.mp4 82 114
+Fighting038_x264.mp4 11 26
+Fighting039_x264.mp4 28 157
+Fighting040_x264.mp4 22 76
+Fighting041_x264.mp4 624 676
+Fighting042_x264.mp4 10 42
+Fighting043_x264.mp4 19 57
+Fighting044_x264.mp4 11 191
+Fighting045_x264.mp4 28 178
+Fighting046_x264.mp4 16 42
+Fighting047_x264.mp4 3 68
+Fighting048_x264.mp4 95 176
+Fighting049_x264.mp4 6 32
+Fighting050_x264.mp4 397 627
+Fighting051_x264.mp4 40 214
+Fighting_1.mp4	6	41	48	58	1:14	1:25
+Fighting_2.mp4	54	1:40	2:24	2:55
+Fighting_3.mp4	19	54
+Fighting_4.mp4	17	3:35
+Fighting_5.mp4	0	5	41	2:18	2:34	2:50
+Fighting_6.mp4	8	1:44	2:13	4:02
+Fighting_7.mp4	17	1:35	1:41	1:49	2:12	2:34	2:54	2:59	3:08	3:17
+Fighting_8.mp4	48	56
